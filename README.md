@@ -7,7 +7,8 @@ This project aimed to find manipulative pump and dump events, and structural ano
 The project tried to figure out if we can forecast 30 min volatility from 1 min futures data, which turned out to be partially ture. Unsupervised anomalies flag manipulation like events showed some overlap with low precision. We also concluded that anomaly informed signals only help trading marginally and inconsistently. 
 
 ## Final project paper
-
+https://drive.google.com/file/d/1Bh3qBXERm18wEY5X-kh1pGAXoaAy4uqN/view?usp=sharing
 
 ## Video demonstration
+https://drive.google.com/file/d/1MJrN_7A_wvOivQ-ws81RN03cICNoOktb/view?usp=drive_link
 
